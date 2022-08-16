@@ -36,6 +36,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
+    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/> 
+  </a> 
 
 </p>
 
