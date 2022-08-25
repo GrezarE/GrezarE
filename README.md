@@ -47,6 +47,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrezarE&show_icons=true&theme=merko&&hide=stars,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrezarE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [<img src="https://www.codewars.com/users/GrezarE/badges/large" alt="codewars" width="300px"/> ](https://www.codewars.com/users/GrezarE)
+
 
 <!--
 **GrezarE/GrezarE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
