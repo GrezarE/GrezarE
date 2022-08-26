@@ -39,7 +39,9 @@
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/> 
   </a> 
-
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" alt="jest" width="40" height="40"/> 
+  </a> 
 </p>
 
 ### Статистика 🏆
