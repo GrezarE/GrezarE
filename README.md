@@ -48,6 +48,12 @@
         <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/office/344/express-js.png" alt="jest" width="40" height="40"/> 
   </a> 
+          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/344/mongodb.png" alt="jest" width="40" height="40"/> 
+  </a> 
+            <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/344/mongoose.png" alt="jest" width="40" height="40"/> 
+  </a> 
 </p>
 
 ### Статистика 🏆
