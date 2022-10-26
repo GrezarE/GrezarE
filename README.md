@@ -54,6 +54,12 @@
             <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/344/mongoose.png" alt="jest" width="40" height="40"/> 
   </a> 
+              <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/344/nestjs.png" alt="jest" width="40" height="40"/> 
+  </a> 
+              <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/344/postgreesql.png" alt="jest" width="40" height="40"/> 
+  </a> 
 </p>
 
 ### Статистика 🏆
