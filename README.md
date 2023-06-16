@@ -63,8 +63,7 @@
 </p>
 
 ### Статистика 🏆
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrezarE&show_icons=true&theme=merko&&hide=stars,issues)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrezarE&show_icons=true&theme=merko&&hide=stars,issues) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrezarE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
