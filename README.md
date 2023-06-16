@@ -42,7 +42,7 @@
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" alt="jest" width="40" height="40"/> 
   </a> 
-      <a href="https://nodejs.org/ru/" target="_blank" rel="noreferrer"> 
+<!--      <a href="https://nodejs.org/ru/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/344/nodejs.png" alt="jest" width="40" height="40"/> 
   </a> 
         <a href="https://expressjs.com/ru/" target="_blank" rel="noreferrer"> 
@@ -59,7 +59,7 @@
   </a> 
               <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/344/postgreesql.png" alt="jest" width="40" height="40"/> 
-  </a> 
+  </a>  -->
 </p>
 
 ### Статистика 🏆
